@@ -46,6 +46,19 @@ SYNTAX
 ?>
 
 
+
+
+ADVANTAGES:
+===========
+
+A)  It has  CDollar,GDollar ,  and  JDollar Advantages.
+
+b)  IT  is  the Powerful  and  Best  Standard  Programming Language
+
+than JDollar.
+
+
+
 EXAMPLE:
 ========
 
