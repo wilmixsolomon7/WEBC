@@ -4,10 +4,13 @@
 WEBC
 ====
 
-WEBC  is   a programming  language  invented   by  wilmix  jemin  j  in  C/C++
+WEBC  is   a programming  language  invented   by  wilmix  jemin  j   at  year  2016.
 
-and  core  java  at  year  2016.
+WEBC  is   a  stand  alone  programming  language   and  it's  project
 
+is  started   at  year  2004  and  ends  at  year  2016.
+
+WEBC  is  just like OAK  Programming  Langauge...
 
 
 
