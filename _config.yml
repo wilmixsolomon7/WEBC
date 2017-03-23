@@ -1,0 +1,8 @@
+title: Webc
+description: WEBC  is   a  Powerful programming  language  invented   by  wilmix  jemin  j   at  year  2016.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
